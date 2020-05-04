@@ -7,9 +7,11 @@ output: pdf_document
 
 # Getting and Cleaning Data Course Project
 
-Codebook - describes the variables and ...
-README - this file! The guide to ,y code and decisions made in tidying and analysing the data
-run_analysis.R - the script file that contains all my code from downloading to cleaning to analysis 
+Codebook - describes the variables and
+README - this file! The guide to ,y code and decisions made in tidying and
+analysing the data
+run_analysis.R - the script file that contains all my code from downloading to
+cleaning to analysis 
 tidy_data.txt - The final independent tidy dataset
 
 ## My Steps
